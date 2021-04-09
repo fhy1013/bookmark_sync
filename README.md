@@ -10,7 +10,7 @@ Chrome Extension
 
 - 生成的 token 需要勾选 repo 权限，保存生成的 token
 
-- 点击插件icon，依次输入用户名、凭据、仓库名、文件存放路径
+- 点击插件icon，依次输入用户名、凭据、仓库名/文件存放路径
 
 - 如果需要记住用户数据，需要打开 Remember Me 开关
 
